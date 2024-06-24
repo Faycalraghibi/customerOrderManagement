@@ -73,10 +73,6 @@ project/
 │   ├── Utilitaire.java
 │   ├── ...
 │
-├── .vscode/         # VS Code settings (if applicable)
-├── Rapport/         # Documentation or reports
-│   ├── rapport JAVA.pdf
-│
 ├── .gitignore       # Git ignore file
 └── README.md        # Project README file
 ```
