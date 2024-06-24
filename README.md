@@ -53,47 +53,45 @@ Provide instructions on how to use the project.
    ```
    
 2. Follow on-screen instructions or command line prompts.
-
 ### Features
-Here are the main features of your project along with examples of commands or interactions:
-1. **Ajouter un client**
-   - **Example:** Ajouter un nouveau client avec nom, prénom et numéro CIN.
 
-2. **Supprimer un client**
-   - **Example:** Supprimer un client existant en saisissant son numéro CIN.
+1. **Add a client**
+   - **Example:** Add a new client with name, surname, and ID number.
 
-3. **Ajouter un fournisseur**
-   - **Example:** Ajouter un nouveau fournisseur avec nom, prénom et numéro CIN (pour une personne physique) ou raison sociale et domaine d'activité (pour une société).
+2. **Remove a client**
+   - **Example:** Remove an existing client by entering their ID number.
 
-4. **Supprimer un fournisseur**
-   - **Example:** Supprimer un fournisseur existant en fournissant son ID.
+3. **Add a supplier**
+   - **Example:** Add a new supplier with name, surname, and ID number (for individuals) or company name and business domain (for companies).
 
-5. **Ajouter un produit**
-   - **Example:** Ajouter un nouveau produit avec libellé, prix TTC et statut de fin de série.
+4. **Remove a supplier**
+   - **Example:** Remove an existing supplier by providing their ID.
 
-6. **Supprimer un produit**
-   - **Example:** Supprimer un produit existant en fournissant son libellé.
+5. **Add a product**
+   - **Example:** Add a new product with label, VAT-inclusive price, and end-of-line status.
 
-7. **Enregistrer une commande**
-   - **Example:** Enregistrer une nouvelle commande avec numéro de commande, dates de commande et de livraison, ainsi que les produits commandés.
+6. **Remove a product**
+   - **Example:** Remove an existing product by providing its label.
 
-8. **Consulter la liste des fournisseurs**
-   - **Example:** Afficher la liste des fournisseurs disponibles avec leurs détails comme l'ID, le nom, le prénom, etc.
+7. **Record an order**
+   - **Example:** Record a new order with order number, order and delivery dates, and the products ordered.
 
-9. **Lier une commande à un fournisseur**
-   - **Example:** Associer une commande à un fournisseur existant en fournissant le numéro de commande et l'ID du fournisseur.
+8. **Consult the list of suppliers**
+   - **Example:** Display the list of available suppliers with details such as ID, name, surname, etc.
 
-10. **Consulter le catalogue des produits**
-    - **Example:** Afficher le catalogue des produits disponibles avec leurs détails comme le libellé, le prix TTC, etc.
+9. **Link an order to a supplier**
+   - **Example:** Associate an order with an existing supplier by providing the order number and supplier ID.
 
-11. **Consulter l'ID d'un fournisseur**
-    - **Example:** Rechercher et afficher l'ID d'un fournisseur en fonction de son nom et prénom ou de sa raison sociale.
+10. **Consult the product catalog**
+    - **Example:** Display the catalog of available products with details such as label, VAT-inclusive price, etc.
 
-12. **Quitter**
-    - **Example:** Permet de quitter l'application.
+11. **Consult a supplier's ID**
+    - **Example:** Search and display a supplier's ID based on their name and surname or company name.
 
-These features cover a range of functionalities for managing clients, suppliers, products, orders, and their relationships within the application. Adjust the examples as needed to fit the specific implementation details of your project.
+12. **Quit**
+    - **Example:** Exit the application.
 
+These features encompass a variety of functionalities for managing clients, suppliers, products, orders, and their relationships within the application. Adjust the examples as necessary to fit the specific implementation details of your project.
 ## File Structure
 
 Explain the organization of files within your project directory.
