@@ -55,9 +55,44 @@ Provide instructions on how to use the project.
 2. Follow on-screen instructions or command line prompts.
 
 ### Features
+Here are the main features of your project along with examples of commands or interactions:
+1. **Ajouter un client**
+   - **Example:** Ajouter un nouveau client avec nom, prénom et numéro CIN.
 
-- List the main features or functionalities of your project.
-- Provide examples of commands or interactions.
+2. **Supprimer un client**
+   - **Example:** Supprimer un client existant en saisissant son numéro CIN.
+
+3. **Ajouter un fournisseur**
+   - **Example:** Ajouter un nouveau fournisseur avec nom, prénom et numéro CIN (pour une personne physique) ou raison sociale et domaine d'activité (pour une société).
+
+4. **Supprimer un fournisseur**
+   - **Example:** Supprimer un fournisseur existant en fournissant son ID.
+
+5. **Ajouter un produit**
+   - **Example:** Ajouter un nouveau produit avec libellé, prix TTC et statut de fin de série.
+
+6. **Supprimer un produit**
+   - **Example:** Supprimer un produit existant en fournissant son libellé.
+
+7. **Enregistrer une commande**
+   - **Example:** Enregistrer une nouvelle commande avec numéro de commande, dates de commande et de livraison, ainsi que les produits commandés.
+
+8. **Consulter la liste des fournisseurs**
+   - **Example:** Afficher la liste des fournisseurs disponibles avec leurs détails comme l'ID, le nom, le prénom, etc.
+
+9. **Lier une commande à un fournisseur**
+   - **Example:** Associer une commande à un fournisseur existant en fournissant le numéro de commande et l'ID du fournisseur.
+
+10. **Consulter le catalogue des produits**
+    - **Example:** Afficher le catalogue des produits disponibles avec leurs détails comme le libellé, le prix TTC, etc.
+
+11. **Consulter l'ID d'un fournisseur**
+    - **Example:** Rechercher et afficher l'ID d'un fournisseur en fonction de son nom et prénom ou de sa raison sociale.
+
+12. **Quitter**
+    - **Example:** Permet de quitter l'application.
+
+These features cover a range of functionalities for managing clients, suppliers, products, orders, and their relationships within the application. Adjust the examples as needed to fit the specific implementation details of your project.
 
 ## File Structure
 
@@ -76,14 +111,6 @@ project/
 ├── .gitignore       # Git ignore file
 └── README.md        # Project README file
 ```
-
-## Dependencies
-
-List any libraries, frameworks, or external dependencies used in your project.
-
-- Dependency Name: Description or purpose
-- Example: Java Swing for GUI
-
 ## Contributing
 
 Provide guidelines for how others can contribute to your project.
