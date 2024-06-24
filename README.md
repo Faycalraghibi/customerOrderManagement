@@ -93,9 +93,3 @@ Provide guidelines for how others can contribute to your project.
 3. Make changes and commit (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/branch-name`).
 5. Create a new Pull Request.
-
-## License
-
-Specify the license under which your project is distributed.
-
----
