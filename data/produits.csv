@@ -1,0 +1,11 @@
+"Libellé","Prix TTC","Produit Fini"
+Laptop,1200,true
+Smartphone,800,true
+Server,2000,true
+Router,500,true
+T-shirt,20,false
+Jeans,50,false
+Bread,2.50,false
+Milk,1.50,false
+HSHS,22.0,true
+Ordinateur-Portable,10000.0,true

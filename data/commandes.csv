@@ -1,0 +1,13 @@
+"Fournisseur","Numéro de commande","Date de commande","Date de livraison","Liste des produits","Prix total"
+5,101,2024-05-10,2024-05-15,"Laptop, Smartphone",1500.00
+3,102,2024-05-11,2024-05-16,"Server, Router",2500.00
+4,103,2024-05-12,2024-05-17,"T-shirt, Jeans",100.00
+2,104,2024-05-13,2024-05-18,"Bread, Milk, Eggs",20.00
+1,105,2024-02-04,2024-03-12,"keyboard,screen,cpu",0.0
+5,106,2024-2-3,2025-02-03,"Server,Laptop,Jeans",3250.0
+4,107,2023-02-02,2024-02-03,"Milk,Eggs",4.5
+6,111,2023-02-02,2024-02-02,"Eggs,Milk",4.5
+6,123,2322,3232,"Eggs,Milk",4.5
+4,109,02-03-2024,12-01-2025,"Laptop,Smartphone",2000.0
+6,109,02-03-2024,01-01-2025,"Laptop,Router",1700.0
+1,22,20-12-2002,20-12-2003,"Jeans",50.0

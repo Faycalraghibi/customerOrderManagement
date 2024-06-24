@@ -1,0 +1,10 @@
+"IdFournisseur","Nom","Prénom","Numéro CIN","Raison sociale","Domaine d'activité","est Societe"
+2,,,,XYZ Inc.,Technology,true
+3,Omar,Omar,K29021,,,false
+4,,,,Oracle,IT,true
+5,,,,Meta,IT,true
+6,,,,Oualmes,Les,true
+7,Adil,Adil,S202033,,,false
+9,,,,Google,IT,true
+10,,,,ONDA,L'aviation,true
+11,ALI,ALI,M282032,,,false
